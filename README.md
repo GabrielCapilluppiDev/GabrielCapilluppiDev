@@ -6,9 +6,10 @@
 
 🚀 About Me
 
-I'm a backend developer passionate about building robust and scalable solutions. Currently, I lead the technology team at Atlantic Bank, focusing on integrating complex systems, optimizing performance, and ensuring large-scale security. With experience in high-demand environments, I've developed systems capable of handling up to 56,000 simultaneous accesses without instability. 🔥
+I'm a backend developer passionate about building robust and scalable solutions. Currently, I lead the technology team at Atlantic Bank, focusing on integrating complex systems, optimizing performance, and ensuring large-scale security. With experience in high-demand environments. 🔥
 
 I also love exploring new technologies, refactoring code to make it more efficient, and sharing knowledge with others.
+
 
 🛠️ Technologies & Tools
 
@@ -23,11 +24,10 @@ I also love exploring new technologies, refactoring code to make it more efficie
 
 ⚙️ Automating deployment processes with Mau.
 
-🎟️ Developing seat reservation features using Redis.
-
-🍻 Organizing the Beer Tap event to promote Chop NFT.
+🎟️ Developing new features using Redis.
 
 📈 Continuously improving user experience with robust and efficient microservices.
+
 
 🌱 Currently Learning:
 
@@ -37,10 +37,10 @@ I also love exploring new technologies, refactoring code to make it more efficie
 
 🏃 Performance optimization for financial systems.
 
+🐹 Golang for building high-performance backend services.
+
+
 📈 GitHub Stats
-
-
-
 
 🤝 Let's Connect!
 
